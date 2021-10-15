@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Mtech in Computer Science at KLE Technological University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and BlockChain Architecture.\
 ✍️ &nbsp;In my free time, I pursue Android Application Development and some Games as hobbies/side hustles.\
@@ -44,8 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/Sagarfh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagarfh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
