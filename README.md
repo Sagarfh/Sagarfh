@@ -5,7 +5,7 @@
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Mtech in Computer Science at KLE Technological University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and BlockChain Architecture.\
+🌱 &nbsp;I'm on track for learning more about MERN Stack Develpoment, Artificial Intelligence, Machine Learning, and BlockChain Architecture.\
 ✍️ &nbsp;In my free time, I pursue Android Application Development and some Games as hobbies/side hustles.\
 💬 &nbsp;You can shoot me an email at sagarhonnabindagi@gmail.com\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/Sagarfh/MyResume/blob/main/Sagar_Honnabindagi_KLE%20Tech%20University.pdf) for more details about me. I'm open to feedback and suggestions!
