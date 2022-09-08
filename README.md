@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💡  I like to explore new technologies and develop software solutions and quick hacks.**
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
 - 🌱 I’m currently learning **Frontend Frameworks like React, Angular, Vue. and also on Artificial Intelligence, Machine Learning**
 
