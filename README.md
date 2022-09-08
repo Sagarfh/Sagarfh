@@ -6,10 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarfh" alt="sagarfh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.**
 
-- 🌱 I’m currently learning **Frontend Frameworks like React, Angular, Vue**
+- 🌱 I’m currently learning **Frontend Frameworks like React, Angular, Vue. and also on Artificial Intelligence, Machine Learning**
+
+- 📄 Please have a look at my [Resume](https://github.com/Sagarfh/MyResume/blob/main/Sagar_Honnabindagi.pdf) for more details about me. I'm open to feedback and suggestions!
 
 - 📫 How to reach me **sagarhonnabindagi@gmail.com**
+- 
+<img alt="Coding" src="https://github.com/Sagarfh/MyResume/blob/main/code.gif" align="right" width="450px" height="250px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
