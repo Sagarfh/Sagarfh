@@ -14,7 +14,7 @@
 - 📄 Please have a look at my [Resume](https://github.com/Sagarfh/MyResume/blob/main/Sagar_Honnabindagi.pdf) for more details about me. I'm open to feedback and suggestions!
 
 - 📫 How to reach me **sagarhonnabindagi@gmail.com**
-<p align="center"> <img alt="Coding" src="https://github.com/Sagarfh/MyResume/blob/main/animation.gif" align="right" width="45%" height="45%"/> </p>
+<p align="center"> <img alt="Coding" src="https://github.com/Sagarfh/MyResume/blob/main/animation1.gif" align="right" width="45%" height="45%"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
