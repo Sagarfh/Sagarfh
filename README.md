@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sagarhonnabindagi@gmail.com**
 - 
-<img alt="Coding" src="https://github.com/Sagarfh/MyResume/blob/main/code.gif" align="right" width="450px" height="250px"/>
+<img alt="Coding" src="https://github.com/Sagarfh/MyResume/blob/main/programmer.gif" align="right" width="450px" height="250px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
